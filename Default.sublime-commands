@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "ZenMode: Toggle Zen Mode",
+        "command": "toggle_zen_mode"
+    }
+]
